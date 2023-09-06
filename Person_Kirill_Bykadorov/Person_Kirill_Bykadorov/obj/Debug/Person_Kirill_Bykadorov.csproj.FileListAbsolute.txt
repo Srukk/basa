@@ -1,0 +1,7 @@
+C:\Users\29343916\source\repos\Person_Kirill_Bykadorov\Person_Kirill_Bykadorov\obj\Debug\Person_Kirill_Bykadorov.csproj.AssemblyReference.cache
+C:\Users\29343916\source\repos\Person_Kirill_Bykadorov\Person_Kirill_Bykadorov\obj\Debug\Person_Kirill_Bykadorov.csproj.CoreCompileInputs.cache
+C:\Users\29343916\source\repos\Person_Kirill_Bykadorov\Person_Kirill_Bykadorov\bin\Debug\Person_Kirill_Bykadorov.exe.config
+C:\Users\29343916\source\repos\Person_Kirill_Bykadorov\Person_Kirill_Bykadorov\bin\Debug\Person_Kirill_Bykadorov.exe
+C:\Users\29343916\source\repos\Person_Kirill_Bykadorov\Person_Kirill_Bykadorov\bin\Debug\Person_Kirill_Bykadorov.pdb
+C:\Users\29343916\source\repos\Person_Kirill_Bykadorov\Person_Kirill_Bykadorov\obj\Debug\Person_Kirill_Bykadorov.exe
+C:\Users\29343916\source\repos\Person_Kirill_Bykadorov\Person_Kirill_Bykadorov\obj\Debug\Person_Kirill_Bykadorov.pdb
