@@ -1,0 +1,7 @@
+C:\Users\29343916\source\repos\labRab1Bykadorov02VTd4120\labRab1Bykadorov02VTd4120\bin\Debug\labRab1Bykadorov02VTd4120.exe.config
+C:\Users\29343916\source\repos\labRab1Bykadorov02VTd4120\labRab1Bykadorov02VTd4120\bin\Debug\labRab1Bykadorov02VTd4120.exe
+C:\Users\29343916\source\repos\labRab1Bykadorov02VTd4120\labRab1Bykadorov02VTd4120\bin\Debug\labRab1Bykadorov02VTd4120.pdb
+C:\Users\29343916\source\repos\labRab1Bykadorov02VTd4120\labRab1Bykadorov02VTd4120\obj\Debug\labRab1Bykadorov02VTd4120.csprojAssemblyReference.cache
+C:\Users\29343916\source\repos\labRab1Bykadorov02VTd4120\labRab1Bykadorov02VTd4120\obj\Debug\labRab1Bykadorov02VTd4120.csproj.CoreCompileInputs.cache
+C:\Users\29343916\source\repos\labRab1Bykadorov02VTd4120\labRab1Bykadorov02VTd4120\obj\Debug\labRab1Bykadorov02VTd4120.exe
+C:\Users\29343916\source\repos\labRab1Bykadorov02VTd4120\labRab1Bykadorov02VTd4120\obj\Debug\labRab1Bykadorov02VTd4120.pdb
