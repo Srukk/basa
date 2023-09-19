@@ -1,0 +1,11 @@
+C:\Users\kirya\Desktop\Учёбаа))\3курс\3курс 1семестр\Прога\Laba2Bykadorov\Laba2Bykadorov\bin\Debug\Laba2Bykadorov.exe.config
+C:\Users\kirya\Desktop\Учёбаа))\3курс\3курс 1семестр\Прога\Laba2Bykadorov\Laba2Bykadorov\bin\Debug\Laba2Bykadorov.exe
+C:\Users\kirya\Desktop\Учёбаа))\3курс\3курс 1семестр\Прога\Laba2Bykadorov\Laba2Bykadorov\bin\Debug\Laba2Bykadorov.pdb
+C:\Users\kirya\Desktop\Учёбаа))\3курс\3курс 1семестр\Прога\Laba2Bykadorov\Laba2Bykadorov\obj\Debug\Laba2Bykadorov.csproj.AssemblyReference.cache
+C:\Users\kirya\Desktop\Учёбаа))\3курс\3курс 1семестр\Прога\Laba2Bykadorov\Laba2Bykadorov\obj\Debug\Laba2Bykadorov.csproj.SuggestedBindingRedirects.cache
+C:\Users\kirya\Desktop\Учёбаа))\3курс\3курс 1семестр\Прога\Laba2Bykadorov\Laba2Bykadorov\obj\Debug\Laba2Bykadorov.Form1.resources
+C:\Users\kirya\Desktop\Учёбаа))\3курс\3курс 1семестр\Прога\Laba2Bykadorov\Laba2Bykadorov\obj\Debug\Laba2Bykadorov.Properties.Resources.resources
+C:\Users\kirya\Desktop\Учёбаа))\3курс\3курс 1семестр\Прога\Laba2Bykadorov\Laba2Bykadorov\obj\Debug\Laba2Bykadorov.csproj.GenerateResource.cache
+C:\Users\kirya\Desktop\Учёбаа))\3курс\3курс 1семестр\Прога\Laba2Bykadorov\Laba2Bykadorov\obj\Debug\Laba2Bykadorov.csproj.CoreCompileInputs.cache
+C:\Users\kirya\Desktop\Учёбаа))\3курс\3курс 1семестр\Прога\Laba2Bykadorov\Laba2Bykadorov\obj\Debug\Laba2Bykadorov.exe
+C:\Users\kirya\Desktop\Учёбаа))\3курс\3курс 1семестр\Прога\Laba2Bykadorov\Laba2Bykadorov\obj\Debug\Laba2Bykadorov.pdb
